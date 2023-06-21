@@ -1,1 +1,1 @@
-# Feature-Pyramid-NN
+# Feature Pyramid Networks
